@@ -5,3 +5,8 @@
 - Construct a correlation matrix to see how the number of licensed pets correlates to income/ tax returns/ affluence by zip codes
 - Scrapped over 64,000 records using Python 
 - Visualize findings using matplotlib in Python
+
+## Contact Me
+Professional Email: nhingocvandang@gmail.com
+
+Linkedln: https://www.linkedin.com/in/nhi-dang-1001/
