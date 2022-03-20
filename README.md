@@ -29,11 +29,11 @@ Functions:
 
 ![Top Breeds](image/topbreed.jpg)
 
-From plot: 
+**From plot:** 
 - Top three dog breeds are Labrador and Golden Retrievers and Short Coat Chihuahuas
 - Top three cat breeds are the American Shorthair, Siamese, and the LaPerm. 
 
-Analysis:
+**Analysis:** 
 
 Dog breeds also have a more even distribution while cat breeds are heavily skewed towards the domestic breeds, particularly the short hair variety. 
 
@@ -41,7 +41,7 @@ Dog breeds also have a more even distribution while cat breeds are heavily skewe
 Plot the top 15 zip codes by toal number of dogs and cats
 ![ratio](image/countdogcat.jpg)
 
-From plot: 
+**From plot:** 
 - Only three zip codes, 98115, 98103, and 98117 have more then 3,000 licensed pets.
 - 2:1 ratio in the number of cats licensed compared to dogs
 
@@ -50,7 +50,7 @@ Plot the top five most frequently occurring dog and cat breeds within the zip co
 
 ![Breeds By Zip](image/breedbyzip.jpg)
 
-From plot:
+**From plot:** 
 
 Cat:
 - After the removal of the domestic cat breeds, we see there is a relatively even distribution of several of the most popular breeds, including the Siamese, American Shorthair, LaPerm, and the Maine Coon. 
@@ -68,7 +68,7 @@ Functions:
 
 ![daily volume](image/dailypetvolume.jpg)
 
-From plot:
+**From plot:** 
 - Very little to no pet licenses being issued from the beginning of 2000 up until about mid-2013 when some noticeable volume began to emerge.
 - From near the end of 2014 and after, the number of issued pet licenses balloons to over a hundred or more each day.
 
@@ -83,20 +83,20 @@ First, plot Percentage of Total IRS Returns by Income Bracket
 
 ![return by income](image/irs_return_by_incocome.jpg)
 
-From plot:
+**From plot:** 
 - The majority of tax returns are from those making approximately $75,000 or less
 - This majority is even higher in some zip codes, such as 98118 and 98105, reaching nearly 60% of IRS filers
 - The 98199 zip code appears to be the most affluent based on data available according to the proportion of tax returns made by registrants with over $100,000 in income.
 - Earlier, we saw the 98115, 98117, and 98103 zip codes have the most licensed pets. Based on the tax return data, these zip codes appear to be more affluent than others
 
-Analysis:
+**Analysis:** 
 - There is a high correlation between the number of licensed pets and the affluence of the respective neighborhood
 
 Second, construct a Correlation mMtrix to see how the number of licensed pets correlates to the number of tax returns by various income brackets
 
 ![correlation](image/correlationmatrix.jpg)
 
-From plot:
+**From plot:** 
 - The income brackets with the highest correlations to pets licensed are in the $25,000 to $75,000 range (close to 1), while the larger income brackets, $100,000 to more than $200,000, are slightly lower
 - The correlation between the number of licensed pets and the distribution of wealth in a particular area according to the volume of tax returns for various income brackets could be considered strong given the social context of the data
 
