@@ -104,6 +104,7 @@ Second, construct a Correlation mMtrix to see how the number of licensed pets co
 ### Links to Other Projects
 1. [Seattle Pet Licensing](https://github.com/NhiDang1001/pet_licensing_seattle-Python-.git)
 2. [YouTube APIs Analysis (Ali Abdaal channel)](https://github.com/NhiDang1001/YouTube-APIs-Analysis.git)
+3. [Climate Change Analysis](https://github.com/NhiDang1001/Climate_Change_Analysis.git)
 
 ### Background
 Hi! I'm Nhi Dang. I've grown a love for data analytics over the years. I took several data related coursework such as Data Science Statistics, Big Data Analytics, Probability & Discrete Mathematics at the University of Washington - Seattle, one of the top-ranked universities globally. I spend most of my freetime on learning Data Analytics and working on my own projects. The project I'm most proud of is the Seattle Pet Licensing. As a pet lover, I love working with Pet dataset. I've been working over and over again with this Seattle Pet Licensing Dataset, using MySQL, R (ggplot2), and Python(matplotlib). 
@@ -113,7 +114,7 @@ Now I focus on analysing whatever datasets come my way, automating my life where
 ### Certification & Professional Skills
 • Certifications: Google Data Analytics Professional Certificate, Python Data Analysis LinkedIn Certificate
 
-• Technical Skills: Python, MySQL, Google BigQuery, R, Tableau, Google SEO
+• Technical Skills: Python, MySQL, Java, Google BigQuery, R, Tableau, Google SEO
 
 • Data Visualization Libraries: Matplotlib, ggplot2
 
