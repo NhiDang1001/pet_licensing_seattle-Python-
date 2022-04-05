@@ -5,7 +5,7 @@
 - Project tools: Python
 - Visualizations: matplotlib
 - Analyze and investigate the pet license database to inform Seattleites on pet ownership trends and explore the opportunity to adopt unlicensed pets from animal shelters
-- analyze over 67,000 records and create visualizations using matplotlib and seaborn’s heatmap function to discover 5 animals adoption trends in Seattle.
+- Analyze over 67,000 records and create visualizations using matplotlib and seaborn’s heatmap function to discover 5 animals adoption trends in Seattle.
 -	Conduct correlation matrix to see how the number of licensed pets correlates to income/ tax returns/ affluence by zip codes throughout the city; forecast the future adoption trends using Excel time series decomposition.
 
 ## Dependencies
