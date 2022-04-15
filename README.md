@@ -1,8 +1,8 @@
 # Project 1
 ## Seattle Pet Licensing Trend and its correlation with Income 
 ### Project At A Glance
-- MySQL code: [here](Pet Final.sql)
-- Link to code: [here](https://github.com/NhiDang1001/pet_licensing_seattle-Python-/blob/master/seattle_pet.ipynb)
+- MySQL code: [here](https://github.com/NhiDang1001/pet_licensing_seattle-Python-/blob/master/Pet%20Final.sql)
+- Python code: [here](https://github.com/NhiDang1001/pet_licensing_seattle-Python-/blob/master/seattle_pet.ipynb)
 - Project tools: Python
 - Visualizations: matplotlib
 - Analyze and investigate the pet license database to inform Seattleites on pet ownership trends and explore the opportunity to adopt unlicensed pets from animal shelters
